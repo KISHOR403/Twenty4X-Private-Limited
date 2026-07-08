@@ -41,7 +41,7 @@
 
 **Screenshot:**
 
-![Customers page crash error](C:/Users/User/.gemini/antigravity/brain/b4f3dae4-82d7-4045-beb1-48b863dccc30/screenshots/bug01_customers_crash.png)
+![Customers page crash error](screenshots/bug01_customers_crash.png)
 
 ---
 
@@ -68,7 +68,7 @@
 
 **Screenshot:**
 
-![Login with wrong password succeeds](C:/Users/User/.gemini/antigravity/brain/b4f3dae4-82d7-4045-beb1-48b863dccc30/screenshots/bug02_password_bypass_login.png)
+![Login with wrong password succeeds](screenshots/bug02_password_bypass_login.png)
 
 ---
 
@@ -90,7 +90,7 @@
 
 **Screenshot:**
 
-![Forgot password link is dead](C:/Users/User/.gemini/antigravity/brain/b4f3dae4-82d7-4045-beb1-48b863dccc30/screenshots/bug07_forgot_password_dead.png)
+![Forgot password link is dead](screenshots/bug07_forgot_password_dead.png)
 
 ---
 
@@ -112,7 +112,7 @@
 
 **Screenshot:**
 
-![Contact sales redirects to login](C:/Users/User/.gemini/antigravity/brain/b4f3dae4-82d7-4045-beb1-48b863dccc30/screenshots/bug08_contact_sales_broken.png)
+![Contact sales redirects to login](screenshots/bug08_contact_sales_broken.png)
 
 ---
 
@@ -139,7 +139,7 @@
 
 **Screenshot:**
 
-![Empty profile fields saved successfully](C:/Users/User/.gemini/antigravity/brain/b4f3dae4-82d7-4045-beb1-48b863dccc30/screenshots/bug04_empty_profile_save.png)
+![Empty profile fields saved successfully](screenshots/bug04_empty_profile_save.png)
 
 ---
 
@@ -163,7 +163,7 @@
 
 **Screenshot:**
 
-![Search bar with typed query showing no results](C:/Users/User/.gemini/antigravity/brain/b4f3dae4-82d7-4045-beb1-48b863dccc30/screenshots/bug03_search_bar_nonfunctional.png)
+![Search bar with typed query showing no results](screenshots/bug03_search_bar_nonfunctional.png)
 
 ---
 
@@ -207,7 +207,7 @@
 
 **Screenshot:**
 
-![July showing $-3,200 incorrect format](C:/Users/User/.gemini/antigravity/brain/b4f3dae4-82d7-4045-beb1-48b863dccc30/screenshots/bug05_negative_revenue_format.png)
+![July showing $-3,200 incorrect format](screenshots/bug05_negative_revenue_format.png)
 
 ---
 
@@ -229,7 +229,7 @@
 
 **Screenshot:**
 
-![Dashboard with dollar icon on Total Customers card](C:/Users/User/.gemini/antigravity/brain/b4f3dae4-82d7-4045-beb1-48b863dccc30/screenshots/bug14_dashboard_overview.png)
+![Dashboard with dollar icon on Total Customers card](screenshots/bug14_dashboard_overview.png)
 
 ---
 
@@ -274,7 +274,7 @@ This inconsistency confuses users and looks unprofessional.
 
 **Screenshot:**
 
-![Recent Activities with mixed date formats](C:/Users/User/.gemini/antigravity/brain/b4f3dae4-82d7-4045-beb1-48b863dccc30/screenshots/bug06_dashboard_details.png)
+![Recent Activities with mixed date formats](screenshots/bug06_dashboard_details.png)
 
 ---
 
@@ -296,7 +296,7 @@ This inconsistency confuses users and looks unprofessional.
 
 **Screenshot:**
 
-![Notification bell with no response](C:/Users/User/.gemini/antigravity/brain/b4f3dae4-82d7-4045-beb1-48b863dccc30/screenshots/bug13_notification_bell.png)
+![Notification bell with no response](screenshots/bug13_notification_bell.png)
 
 ---
 
@@ -340,7 +340,7 @@ This inconsistency confuses users and looks unprofessional.
 
 **Screenshot:**
 
-![John Doe with "Jo" initials](C:/Users/User/.gemini/antigravity/brain/b4f3dae4-82d7-4045-beb1-48b863dccc30/screenshots/bug06_dashboard_details.png)
+![John Doe with "Jo" initials](screenshots/bug06_dashboard_details.png)
 
 ---
 
@@ -363,22 +363,7 @@ This inconsistency confuses users and looks unprofessional.
 
 **Screenshot:**
 
-![Profile page floating button on mobile](C:/Users/User/.gemini/antigravity/brain/b4f3dae4-82d7-4045-beb1-48b863dccc30/screenshots/bug11_mobile_profile_floating.png)
-
----
-
-## Screen Recordings
-
-The following screen recordings document the full testing sessions:
-
-### Recording 1: Detailed Desktop Bug Testing
-![Comprehensive desktop testing session](C:/Users/User/.gemini/antigravity/brain/b4f3dae4-82d7-4045-beb1-48b863dccc30/screenshots/recording_detailed_testing.webp)
-
-### Recording 2: Mobile/Responsive Testing
-![Mobile and tablet responsive testing](C:/Users/User/.gemini/antigravity/brain/b4f3dae4-82d7-4045-beb1-48b863dccc30/screenshots/recording_mobile_responsive.webp)
-
-### Recording 3: Additional Feature Testing (Edge Browser)
-![Additional testing in Edge browser](C:/Users/User/.gemini/antigravity/brain/b4f3dae4-82d7-4045-beb1-48b863dccc30/screenshots/recording_additional_testing.webp)
+![Profile page floating button on mobile](screenshots/bug11_mobile_profile_floating.png)
 
 ---
 
