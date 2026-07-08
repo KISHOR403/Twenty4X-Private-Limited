@@ -1,6 +1,7 @@
 # QA Bug Report — Pulse CRM (https://qaassesment.twenty4x.net/)
 
-**Tester:** KISHOR  
+**Tester:** KISHOR GOGOI
+**Email:** kishorgogoi403@gmail.com
 **Date:** July 8, 2026  
 **Application:** Pulse CRM v1.4.2  
 **Browsers Tested:** Chromium (Desktop & Mobile viewport), Microsoft Edge (Desktop)  
